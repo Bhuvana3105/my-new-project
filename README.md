@@ -2,28 +2,35 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# AI Project
+my-new-project
+Building AI course project
 
+AI Accident Investigation
 Final project for the Building AI course
 
-## Summary
+Summary
+The operationalisation of AI/Machine Learning in transportation and other industries has grown faster than the maturity of testing and risk management. Current accident investigation techniques are based on understanding deterministic models and may be inadequate for understanding non-deterministic machine behaviour.
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
-
-## Background
-
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Background
+The operationalisation of AI/Machine Learning in transportation and other industries has grown faster than the maturity of testing and risk management. Current accident investigation techniques are based on understanding deterministic models and may be inadequate for understanding non-deterministic machine behaviour.
 
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
 
+problem 1 Need to understand how AI/Machine Learning was implemented.
+problem 2 Need a structured process for personnel to follow to build a model of the function, purpose and developemt of the AI/Machine Learning.
+problem 3 What is our understanding of how risk emerges in a learning system?
+problem 4 How do we apply controls in a learning system to prevent unwanted learning, while not restricting performance improvement and adaptation.
+How is it used?
+The solution should encapsulate a process that could be employed to provide independence accident investigation findings and recommendations.
 
-## How is it used?
+Data sources and AI methods
+To develop a process would require input from the AI community / software and sensor developers to understand how to interogate the software to understand the strengths and weaknesses of it as a controller.
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Challenges
+Access to IP for vehicle software control systems.
+
+What next?
+Project would need input from vehicle control systems employing AI/Machine Learning
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
@@ -49,31 +56,3 @@ def main():
 
 main()
 ```
-
-
-## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-## Challenges
-
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-
-## What next?
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
-
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
